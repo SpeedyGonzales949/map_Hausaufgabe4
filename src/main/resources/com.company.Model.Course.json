@@ -1,0 +1,8 @@
+[ {
+  "name" : "BD",
+  "teacher" : "6c069bd8-4347-4fc8-a3a2-1abe820d516e",
+  "maxEnrollment" : 30,
+  "credits" : 7,
+  "studentsEnrolled" : [ "15884e5a-c111-4d96-ab8d-3a87a4cc8a67" ],
+  "id" : "20edf292-cc4a-4f78-a783-3b878a6fb92c"
+} ]

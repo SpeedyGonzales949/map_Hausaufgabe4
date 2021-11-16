@@ -1,0 +1,13 @@
+[ {
+  "firstName" : "Aleman",
+  "lastName" : "Mihnea",
+  "studentId" : "15884e5a-c111-4d96-ab8d-3a87a4cc8a67",
+  "totalCredits" : 7,
+  "enrolledCourses" : [ "20edf292-cc4a-4f78-a783-3b878a6fb92c" ]
+}, {
+  "firstName" : "Aleman1",
+  "lastName" : "Mihnea",
+  "studentId" : "6b90425b-62e3-4cf9-a757-3eeb54262d9f",
+  "totalCredits" : 0,
+  "enrolledCourses" : [ ]
+} ]
